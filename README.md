@@ -1,13 +1,12 @@
 # Graph Theory Algorithms
 
-This repository contains Python implementations of various graph theory concepts and algorithms as part of the MT-3001 Graph Theory course project.
+A collection of Python implementations for fundamental graph theory concepts and algorithms with visualization capabilities.
 
 ## Project Overview
 
-The project consists of three main components:
+The project consists of two main components:
 1. Basic graph operations implementation
 2. Graph algorithms implementation (Graph Coloring, Bipartite Testing, Max-Flow)
-3. Havel-Hakimi theorem application
 
 ## Features
 
@@ -29,9 +28,6 @@ The project consists of three main components:
 3. **Max-Flow Algorithm**:
    - Ford-Fulkerson implementation
    - Step-by-step visualization of augmenting paths
-
-### Problem (c): Alternative Applications
-(Research component - to be documented separately)
 
 ## Technologies Used
 - Python 3.7+
